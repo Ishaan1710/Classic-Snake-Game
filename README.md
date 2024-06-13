@@ -1,6 +1,7 @@
 # Snake Game
 
 This is a simple Snake Game implemented in Java using Swing for graphical interface. The game allows players to control a snake which moves around the board to eat food, growing longer as it consumes food. The game ends when the snake collides with itself or the boundaries of the board.
+![image](https://github.com/Ishaan1710/Classic-Snake-Game/assets/128537896/c19f0c2f-c004-47cb-a64d-0faea94c225a)
 
 ## How to Play
 ### Controls:
